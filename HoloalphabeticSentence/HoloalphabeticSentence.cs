@@ -16,6 +16,7 @@ namespace HoloalphabeticSentence
                 {
                     if(alphabets[i]==lowercase[j])
                     {
+
                         count++;
                         break;
                     }
